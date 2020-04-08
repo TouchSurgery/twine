@@ -1,6 +1,6 @@
-# 1.0.4 (2020-04-08)
+# 1.0.3.1 (2020-04-08)
 
-- Replace -rubygems with -rrubygems
+- Replace -rubygems with -rrubygems. This change is needed in order to use the library with ruby greater than 2.5
 
 # 1.0.3 (2018-01-26)
 
