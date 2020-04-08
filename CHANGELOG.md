@@ -1,3 +1,7 @@
+# 1.0.4 (2020-04-08)
+
+- Replace -rubygems with -rrubygems
+
 # 1.0.3 (2018-01-26)
 
 - Bugfix: Workaround a possible crash in safe_yaml (#237)
